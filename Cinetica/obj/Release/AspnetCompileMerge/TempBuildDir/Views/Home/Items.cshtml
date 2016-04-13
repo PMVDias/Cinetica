@@ -1,0 +1,63 @@
+﻿@model IEnumerable<CineticaApp.Models.Cinetica>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AccX)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AccY)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AccZ)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AccX)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AccY)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AccZ)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Time)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CineticaId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CineticaId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CineticaId })
+        </td>
+    </tr>
+}
+
+</table>

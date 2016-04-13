@@ -1,0 +1,1136 @@
+[
+ {
+    "CineticaId": 587,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.339976639,
+    "AccY": 3.51289248,
+    "AccZ": 8.792108,
+    "Time": "2016-03-19T02:22:29"
+  },
+  {
+    "CineticaId": 588,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.377086759,
+    "AccY": 3.45603013,
+    "AccZ": 8.88608,
+    "Time": "2016-03-19T02:22:29"
+  },
+  {
+    "CineticaId": 589,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.017956512,
+    "AccY": 3.55119967,
+    "AccZ": 8.694544,
+    "Time": "2016-03-19T02:22:30"
+  },
+  {
+    "CineticaId": 590,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.260968,
+    "AccY": 3.26209974,
+    "AccZ": 9.11293,
+    "Time": "2016-03-19T02:22:30"
+  },
+  {
+    "CineticaId": 591,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.111330383,
+    "AccY": 3.55838227,
+    "AccZ": 8.743026,
+    "Time": "2016-03-19T02:22:30"
+  },
+  {
+    "CineticaId": 592,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": -0.06943185,
+    "AccY": 3.482965,
+    "AccZ": 8.936956,
+    "Time": "2016-03-19T02:22:30"
+  },
+  {
+    "CineticaId": 593,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.207697,
+    "AccY": 3.316568,
+    "AccZ": 8.916007,
+    "Time": "2016-03-19T02:22:30"
+  },
+  {
+    "CineticaId": 594,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.137068048,
+    "AccY": 3.441665,
+    "AccZ": 8.917204,
+    "Time": "2016-03-19T02:22:30"
+  },
+  {
+    "CineticaId": 595,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.008978256,
+    "AccY": 3.38121128,
+    "AccZ": 8.974665,
+    "Time": "2016-03-19T02:22:31"
+  },
+  {
+    "CineticaId": 596,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.104746327,
+    "AccY": 3.41592717,
+    "AccZ": 8.96029949,
+    "Time": "2016-03-19T02:22:31"
+  },
+  {
+    "CineticaId": 597,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.123899937,
+    "AccY": 3.43927073,
+    "AccZ": 8.85675049,
+    "Time": "2016-03-19T02:22:31"
+  },
+  {
+    "CineticaId": 598,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.155024558,
+    "AccY": 3.37343025,
+    "AccZ": 8.956709,
+    "Time": "2016-03-19T02:22:31"
+  },
+  {
+    "CineticaId": 599,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.137068048,
+    "AccY": 3.42071557,
+    "AccZ": 8.920795,
+    "Time": "2016-03-19T02:22:31"
+  },
+  {
+    "CineticaId": 600,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.08678981,
+    "AccY": 3.39018965,
+    "AccZ": 8.909423,
+    "Time": "2016-03-19T02:22:31"
+  },
+  {
+    "CineticaId": 601,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.122104287,
+    "AccY": 3.41592717,
+    "AccZ": 8.952518,
+    "Time": "2016-03-19T02:22:32"
+  },
+  {
+    "CineticaId": 602,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.158017308,
+    "AccY": 3.38599968,
+    "AccZ": 8.948928,
+    "Time": "2016-03-19T02:22:32"
+  },
+  {
+    "CineticaId": 603,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.235230312,
+    "AccY": 3.38719678,
+    "AccZ": 8.961497,
+    "Time": "2016-03-19T02:22:32"
+  },
+  {
+    "CineticaId": 604,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.171185419,
+    "AccY": 3.38061285,
+    "AccZ": 8.979453,
+    "Time": "2016-03-19T02:22:32"
+  },
+  {
+    "CineticaId": 605,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.120308638,
+    "AccY": 3.33632016,
+    "AccZ": 8.908226,
+    "Time": "2016-03-19T02:22:32"
+  },
+  {
+    "CineticaId": 606,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.0502782352,
+    "AccY": 3.46201563,
+    "AccZ": 8.942344,
+    "Time": "2016-03-19T02:22:33"
+  },
+  {
+    "CineticaId": 607,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.121505737,
+    "AccY": 3.38899255,
+    "AccZ": 8.919,
+    "Time": "2016-03-19T02:22:33"
+  },
+  {
+    "CineticaId": 608,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.191536129,
+    "AccY": 3.38480258,
+    "AccZ": 8.951322,
+    "Time": "2016-03-19T02:22:33"
+  },
+  {
+    "CineticaId": 609,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.144250646,
+    "AccY": 3.45124173,
+    "AccZ": 8.9124155,
+    "Time": "2016-03-19T02:22:33"
+  },
+  {
+    "CineticaId": 610,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.18674773,
+    "AccY": 3.417723,
+    "AccZ": 8.919599,
+    "Time": "2016-03-19T02:22:33"
+  },
+  {
+    "CineticaId": 611,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.119710088,
+    "AccY": 3.42430687,
+    "AccZ": 8.916606,
+    "Time": "2016-03-19T02:22:33"
+  },
+  {
+    "CineticaId": 612,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.125097036,
+    "AccY": 3.466804,
+    "AccZ": 8.890868,
+    "Time": "2016-03-19T02:22:34"
+  },
+  {
+    "CineticaId": 613,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.1604115,
+    "AccY": 3.43148947,
+    "AccZ": 8.959103,
+    "Time": "2016-03-19T02:22:34"
+  },
+  {
+    "CineticaId": 614,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.154426008,
+    "AccY": 3.38779545,
+    "AccZ": 9.018359,
+    "Time": "2016-03-19T02:22:34"
+  },
+  {
+    "CineticaId": 615,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.210689753,
+    "AccY": 3.39617515,
+    "AccZ": 8.936956,
+    "Time": "2016-03-19T02:22:34"
+  },
+  {
+    "CineticaId": 616,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": -0.0215478148,
+    "AccY": 3.493739,
+    "AccZ": 8.944139,
+    "Time": "2016-03-19T02:22:34"
+  },
+  {
+    "CineticaId": 617,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.08678981,
+    "AccY": 3.39318228,
+    "AccZ": 8.933365,
+    "Time": "2016-03-19T02:22:35"
+  },
+  {
+    "CineticaId": 618,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.142455,
+    "AccY": 3.42490554,
+    "AccZ": 8.879496,
+    "Time": "2016-03-19T02:22:35"
+  },
+  {
+    "CineticaId": 619,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.1364695,
+    "AccY": 3.43687654,
+    "AccZ": 8.913014,
+    "Time": "2016-03-19T02:22:35"
+  },
+  {
+    "CineticaId": 620,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.140659347,
+    "AccY": 3.4542346,
+    "AccZ": 8.924387,
+    "Time": "2016-03-19T02:22:35"
+  },
+  {
+    "CineticaId": 621,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.157418758,
+    "AccY": 3.41473,
+    "AccZ": 8.922591,
+    "Time": "2016-03-19T02:22:35"
+  },
+  {
+    "CineticaId": 622,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.155024558,
+    "AccY": 3.429694,
+    "AccZ": 8.865729,
+    "Time": "2016-03-19T02:22:35"
+  },
+  {
+    "CineticaId": 623,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.188543379,
+    "AccY": 3.394978,
+    "AccZ": 8.941146,
+    "Time": "2016-03-19T02:22:36"
+  },
+  {
+    "CineticaId": 624,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.18734628,
+    "AccY": 3.42131424,
+    "AccZ": 8.902839,
+    "Time": "2016-03-19T02:22:36"
+  },
+  {
+    "CineticaId": 625,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.150834709,
+    "AccY": 3.45722723,
+    "AccZ": 8.901642,
+    "Time": "2016-03-19T02:22:36"
+  },
+  {
+    "CineticaId": 626,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.1436521,
+    "AccY": 3.39198518,
+    "AccZ": 8.907029,
+    "Time": "2016-03-19T02:22:36"
+  },
+  {
+    "CineticaId": 627,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.142455,
+    "AccY": 3.4494462,
+    "AccZ": 8.963891,
+    "Time": "2016-03-19T02:22:36"
+  },
+  {
+    "CineticaId": 628,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.246004224,
+    "AccY": 3.40635037,
+    "AccZ": 8.913613,
+    "Time": "2016-03-19T02:22:37"
+  },
+  {
+    "CineticaId": 629,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.219069451,
+    "AccY": 3.38899255,
+    "AccZ": 8.942942,
+    "Time": "2016-03-19T02:22:37"
+  },
+  {
+    "CineticaId": 630,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.20410569,
+    "AccY": 3.37223315,
+    "AccZ": 8.97646,
+    "Time": "2016-03-19T02:22:37"
+  },
+  {
+    "CineticaId": 631,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.06943185,
+    "AccY": 3.40515327,
+    "AccZ": 8.92797852,
+    "Time": "2016-03-19T02:22:37"
+  },
+  {
+    "CineticaId": 632,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.2112883,
+    "AccY": 3.41951847,
+    "AccZ": 8.953117,
+    "Time": "2016-03-19T02:22:37"
+  },
+  {
+    "CineticaId": 633,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.16639702,
+    "AccY": 3.436278,
+    "AccZ": 8.913014,
+    "Time": "2016-03-19T02:22:37"
+  },
+  {
+    "CineticaId": 634,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.163404271,
+    "AccY": 3.38779545,
+    "AccZ": 8.93576,
+    "Time": "2016-03-19T02:22:38"
+  },
+  {
+    "CineticaId": 635,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.208295554,
+    "AccY": 3.425504,
+    "AccZ": 8.919599,
+    "Time": "2016-03-19T02:22:38"
+  },
+  {
+    "CineticaId": 636,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.161010072,
+    "AccY": 3.43807364,
+    "AccZ": 8.97646,
+    "Time": "2016-03-19T02:22:38"
+  },
+  {
+    "CineticaId": 637,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.16699557,
+    "AccY": 3.42251134,
+    "AccZ": 8.918402,
+    "Time": "2016-03-19T02:22:38"
+  },
+  {
+    "CineticaId": 638,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.16639702,
+    "AccY": 3.40934324,
+    "AccZ": 8.925584,
+    "Time": "2016-03-19T02:22:38"
+  },
+  {
+    "CineticaId": 639,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.215478152,
+    "AccY": 3.42789817,
+    "AccZ": 8.901043,
+    "Time": "2016-03-19T02:22:39"
+  },
+  {
+    "CineticaId": 640,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.158017308,
+    "AccY": 3.41712427,
+    "AccZ": 8.925584,
+    "Time": "2016-03-19T02:22:39"
+  },
+  {
+    "CineticaId": 641,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.158017308,
+    "AccY": 3.42310977,
+    "AccZ": 8.9363575,
+    "Time": "2016-03-19T02:22:39"
+  },
+  {
+    "CineticaId": 642,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.202310041,
+    "AccY": 3.39737225,
+    "AccZ": 8.950125,
+    "Time": "2016-03-19T02:22:39"
+  },
+  {
+    "CineticaId": 643,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.154426008,
+    "AccY": 3.37821865,
+    "AccZ": 8.93935,
+    "Time": "2016-03-19T02:22:39"
+  },
+  {
+    "CineticaId": 644,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.171783969,
+    "AccY": 3.43567944,
+    "AccZ": 8.954314,
+    "Time": "2016-03-19T02:22:39"
+  },
+  {
+    "CineticaId": 645,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.171783969,
+    "AccY": 3.39856935,
+    "AccZ": 8.902241,
+    "Time": "2016-03-19T02:22:40"
+  },
+  {
+    "CineticaId": 646,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.155623108,
+    "AccY": 3.4685998,
+    "AccZ": 8.878299,
+    "Time": "2016-03-19T02:22:40"
+  },
+  {
+    "CineticaId": 647,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.14844051,
+    "AccY": 3.4398694,
+    "AccZ": 8.96449,
+    "Time": "2016-03-19T02:22:40"
+  },
+  {
+    "CineticaId": 648,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.177769482,
+    "AccY": 3.43448234,
+    "AccZ": 8.915408,
+    "Time": "2016-03-19T02:22:40"
+  },
+  {
+    "CineticaId": 649,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.18495208,
+    "AccY": 3.41293454,
+    "AccZ": 8.969876,
+    "Time": "2016-03-19T02:22:40"
+  },
+  {
+    "CineticaId": 650,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.16639702,
+    "AccY": 3.42370844,
+    "AccZ": 8.928576,
+    "Time": "2016-03-19T02:22:41"
+  },
+  {
+    "CineticaId": 651,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.1945289,
+    "AccY": 3.41413164,
+    "AccZ": 8.942942,
+    "Time": "2016-03-19T02:22:41"
+  },
+  {
+    "CineticaId": 652,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.1436521,
+    "AccY": 3.43807364,
+    "AccZ": 8.934562,
+    "Time": "2016-03-19T02:22:41"
+  },
+  {
+    "CineticaId": 653,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.18435353,
+    "AccY": 3.413533,
+    "AccZ": 9.1668,
+    "Time": "2016-03-19T02:22:41"
+  },
+  {
+    "CineticaId": 654,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.243610024,
+    "AccY": 3.4410665,
+    "AccZ": 8.881291,
+    "Time": "2016-03-19T02:22:41"
+  },
+  {
+    "CineticaId": 655,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.267552048,
+    "AccY": 3.433884,
+    "AccZ": 8.853159,
+    "Time": "2016-03-19T02:22:41"
+  },
+  {
+    "CineticaId": 656,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.275931746,
+    "AccY": 3.47638083,
+    "AccZ": 8.867524,
+    "Time": "2016-03-19T02:22:42"
+  },
+  {
+    "CineticaId": 657,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.2705448,
+    "AccY": 3.43927073,
+    "AccZ": 8.862736,
+    "Time": "2016-03-19T02:22:42"
+  },
+  {
+    "CineticaId": 658,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.20590134,
+    "AccY": 3.50451279,
+    "AccZ": 8.862138,
+    "Time": "2016-03-19T02:22:42"
+  },
+  {
+    "CineticaId": 659,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.273537546,
+    "AccY": 3.47578239,
+    "AccZ": 8.892065,
+    "Time": "2016-03-19T02:22:42"
+  },
+  {
+    "CineticaId": 660,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.260968,
+    "AccY": 3.4506433,
+    "AccZ": 8.886678,
+    "Time": "2016-03-19T02:22:42"
+  },
+  {
+    "CineticaId": 661,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.285508543,
+    "AccY": 3.4638114,
+    "AccZ": 8.916007,
+    "Time": "2016-03-19T02:22:42"
+  },
+  {
+    "CineticaId": 662,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.2100912,
+    "AccY": 3.44765043,
+    "AccZ": 8.914211,
+    "Time": "2016-03-19T02:22:43"
+  },
+  {
+    "CineticaId": 663,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.236427411,
+    "AccY": 3.47578239,
+    "AccZ": 8.922591,
+    "Time": "2016-03-19T02:22:43"
+  },
+  {
+    "CineticaId": 664,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.255581021,
+    "AccY": 3.49792862,
+    "AccZ": 8.838196,
+    "Time": "2016-03-19T02:22:43"
+  },
+  {
+    "CineticaId": 665,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.2861071,
+    "AccY": 3.454833,
+    "AccZ": 8.891466,
+    "Time": "2016-03-19T02:22:43"
+  },
+  {
+    "CineticaId": 666,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.247799873,
+    "AccY": 3.4614172,
+    "AccZ": 8.969278,
+    "Time": "2016-03-19T02:22:43"
+  },
+  {
+    "CineticaId": 667,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.280720145,
+    "AccY": 3.4566288,
+    "AccZ": 8.88608,
+    "Time": "2016-03-19T02:22:44"
+  },
+  {
+    "CineticaId": 668,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.267552048,
+    "AccY": 3.45842433,
+    "AccZ": 8.8777,
+    "Time": "2016-03-19T02:22:44"
+  },
+  {
+    "CineticaId": 669,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.255581021,
+    "AccY": 3.44884753,
+    "AccZ": 8.892664,
+    "Time": "2016-03-19T02:22:44"
+  },
+  {
+    "CineticaId": 670,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.293289721,
+    "AccY": 3.429694,
+    "AccZ": 8.911219,
+    "Time": "2016-03-19T02:22:44"
+  },
+  {
+    "CineticaId": 671,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.2621651,
+    "AccY": 3.4685998,
+    "AccZ": 8.934562,
+    "Time": "2016-03-19T02:22:44"
+  },
+  {
+    "CineticaId": 672,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.272340447,
+    "AccY": 3.465607,
+    "AccZ": 8.916606,
+    "Time": "2016-03-19T02:22:44"
+  },
+  {
+    "CineticaId": 673,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.303465068,
+    "AccY": 3.41892,
+    "AccZ": 8.921992,
+    "Time": "2016-03-19T02:22:45"
+  },
+  {
+    "CineticaId": 674,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.28491,
+    "AccY": 3.44405913,
+    "AccZ": 8.962095,
+    "Time": "2016-03-19T02:22:45"
+  },
+  {
+    "CineticaId": 675,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.265157849,
+    "AccY": 3.4530375,
+    "AccZ": 8.902241,
+    "Time": "2016-03-19T02:22:45"
+  },
+  {
+    "CineticaId": 676,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.29568392,
+    "AccY": 3.44765043,
+    "AccZ": 8.889072,
+    "Time": "2016-03-19T02:22:45"
+  },
+  {
+    "CineticaId": 677,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.272939,
+    "AccY": 3.42789817,
+    "AccZ": 8.885481,
+    "Time": "2016-03-19T02:22:45"
+  },
+  {
+    "CineticaId": 678,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.3453636,
+    "AccY": 3.429694,
+    "AccZ": 8.963293,
+    "Time": "2016-03-19T02:22:46"
+  },
+  {
+    "CineticaId": 679,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.311246216,
+    "AccY": 3.45124173,
+    "AccZ": 8.940548,
+    "Time": "2016-03-19T02:22:46"
+  },
+  {
+    "CineticaId": 680,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.247799873,
+    "AccY": 3.448249,
+    "AccZ": 8.893262,
+    "Time": "2016-03-19T02:22:46"
+  },
+  {
+    "CineticaId": 681,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.299275219,
+    "AccY": 3.43567944,
+    "AccZ": 8.908825,
+    "Time": "2016-03-19T02:22:46"
+  },
+  {
+    "CineticaId": 682,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.29568392,
+    "AccY": 3.445855,
+    "AccZ": 8.96029949,
+    "Time": "2016-03-19T02:22:46"
+  },
+  {
+    "CineticaId": 683,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.301070869,
+    "AccY": 3.41652584,
+    "AccZ": 8.878897,
+    "Time": "2016-03-19T02:22:46"
+  },
+  {
+    "CineticaId": 684,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.328005642,
+    "AccY": 3.4506433,
+    "AccZ": 8.930372,
+    "Time": "2016-03-19T02:22:47"
+  },
+  {
+    "CineticaId": 685,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.299873769,
+    "AccY": 3.469797,
+    "AccZ": 8.842385,
+    "Time": "2016-03-19T02:22:47"
+  },
+  {
+    "CineticaId": 686,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.2669535,
+    "AccY": 3.430891,
+    "AccZ": 8.902839,
+    "Time": "2016-03-19T02:22:47"
+  },
+  {
+    "CineticaId": 687,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.232237563,
+    "AccY": 3.51289248,
+    "AccZ": 8.884883,
+    "Time": "2016-03-19T02:22:47"
+  },
+  {
+    "CineticaId": 688,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.07182605,
+    "AccY": 3.48476052,
+    "AccZ": 8.90403652,
+    "Time": "2016-03-19T02:22:47"
+  },
+  {
+    "CineticaId": 689,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.0766144544,
+    "AccY": 3.48236632,
+    "AccZ": 8.862736,
+    "Time": "2016-03-19T02:22:48"
+  },
+  {
+    "CineticaId": 690,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.253785372,
+    "AccY": 3.58591557,
+    "AccZ": 8.93576,
+    "Time": "2016-03-19T02:22:48"
+  },
+  {
+    "CineticaId": 691,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.263960749,
+    "AccY": 3.39797068,
+    "AccZ": 8.90643,
+    "Time": "2016-03-19T02:22:48"
+  },
+  {
+    "CineticaId": 692,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.2669535,
+    "AccY": 3.429694,
+    "AccZ": 8.944139,
+    "Time": "2016-03-19T02:22:48"
+  },
+  {
+    "CineticaId": 693,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.3184288,
+    "AccY": 3.457826,
+    "AccZ": 8.867524,
+    "Time": "2016-03-19T02:22:48"
+  },
+  {
+    "CineticaId": 694,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.286705643,
+    "AccY": 3.435081,
+    "AccZ": 8.905233,
+    "Time": "2016-03-19T02:22:48"
+  },
+  {
+    "CineticaId": 695,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.292691171,
+    "AccY": 3.41712427,
+    "AccZ": 8.907029,
+    "Time": "2016-03-19T02:22:49"
+  },
+  {
+    "CineticaId": 696,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.2705448,
+    "AccY": 3.4410665,
+    "AccZ": 8.886678,
+    "Time": "2016-03-19T02:22:49"
+  },
+  {
+    "CineticaId": 697,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.344765037,
+    "AccY": 3.42011714,
+    "AccZ": 8.932168,
+    "Time": "2016-03-19T02:22:49"
+  },
+  {
+    "CineticaId": 698,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.329202741,
+    "AccY": 3.42310977,
+    "AccZ": 8.871116,
+    "Time": "2016-03-19T02:22:49"
+  },
+  {
+    "CineticaId": 699,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.336385339,
+    "AccY": 3.406949,
+    "AccZ": 8.941146,
+    "Time": "2016-03-19T02:22:49"
+  },
+  {
+    "CineticaId": 700,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.272939,
+    "AccY": 3.43208814,
+    "AccZ": 8.92319,
+    "Time": "2016-03-19T02:22:50"
+  },
+  {
+    "CineticaId": 701,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.301070869,
+    "AccY": 3.41413164,
+    "AccZ": 8.907029,
+    "Time": "2016-03-19T02:22:50"
+  },
+  {
+    "CineticaId": 702,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.3369839,
+    "AccY": 3.37702155,
+    "AccZ": 8.941146,
+    "Time": "2016-03-19T02:22:50"
+  },
+  {
+    "CineticaId": 703,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.339976639,
+    "AccY": 3.393781,
+    "AccZ": 8.992621,
+    "Time": "2016-03-19T02:22:50"
+  },
+  {
+    "CineticaId": 704,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.3465607,
+    "AccY": 3.39737225,
+    "AccZ": 8.925584,
+    "Time": "2016-03-19T02:22:50"
+  },
+  {
+    "CineticaId": 705,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.311844766,
+    "AccY": 3.41054034,
+    "AccZ": 8.899846,
+    "Time": "2016-03-19T02:22:50"
+  },
+  {
+    "CineticaId": 706,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.310647666,
+    "AccY": 3.40814614,
+    "AccZ": 8.917204,
+    "Time": "2016-03-19T02:22:51"
+  },
+  {
+    "CineticaId": 707,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.319027364,
+    "AccY": 3.41413164,
+    "AccZ": 8.885481,
+    "Time": "2016-03-19T02:22:51"
+  },
+  {
+    "CineticaId": 708,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.252588272,
+    "AccY": 3.42789817,
+    "AccZ": 8.907627,
+    "Time": "2016-03-19T02:22:51"
+  },
+  {
+    "CineticaId": 709,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.292691171,
+    "AccY": 3.435081,
+    "AccZ": 8.904634,
+    "Time": "2016-03-19T02:22:51"
+  },
+  {
+    "CineticaId": 710,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.3393781,
+    "AccY": 3.36624765,
+    "AccZ": 8.966884,
+    "Time": "2016-03-19T02:22:51"
+  },
+  {
+    "CineticaId": 711,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.267552048,
+    "AccY": 3.43927073,
+    "AccZ": 8.92738,
+    "Time": "2016-03-19T02:22:51"
+  },
+  {
+    "CineticaId": 712,
+    "UserId": "787b64b37b5e2b7e",
+    "Name": "last test",
+    "AccX": 0.0903811157,
+    "AccY": 3.59010553,
+    "AccZ": 7.735666,
+    "Time": "2016-03-19T02:22:52"
+  }
+]

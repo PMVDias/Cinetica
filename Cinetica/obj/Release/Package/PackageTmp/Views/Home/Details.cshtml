@@ -1,0 +1,66 @@
+﻿@model CineticaApp.Models.Cinetica
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Cinetica</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AccX)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AccX)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AccY)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AccY)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AccZ)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AccZ)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Time)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CineticaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
